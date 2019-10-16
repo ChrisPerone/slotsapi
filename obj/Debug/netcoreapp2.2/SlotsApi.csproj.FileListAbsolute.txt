@@ -1,0 +1,14 @@
+c:\Users\Crispy\Documents\GitHub\SlotsApi\bin\Debug\netcoreapp2.2\SlotsApi.deps.json
+c:\Users\Crispy\Documents\GitHub\SlotsApi\bin\Debug\netcoreapp2.2\SlotsApi.runtimeconfig.json
+c:\Users\Crispy\Documents\GitHub\SlotsApi\bin\Debug\netcoreapp2.2\SlotsApi.runtimeconfig.dev.json
+C:\Users\Crispy\Documents\GitHub\SlotsApi\bin\Debug\netcoreapp2.2\SlotsApi.dll
+C:\Users\Crispy\Documents\GitHub\SlotsApi\bin\Debug\netcoreapp2.2\SlotsApi.pdb
+C:\Users\Crispy\Documents\GitHub\SlotsApi\obj\Debug\netcoreapp2.2\SlotsApi.csprojAssemblyReference.cache
+C:\Users\Crispy\Documents\GitHub\SlotsApi\obj\Debug\netcoreapp2.2\SlotsApi.csproj.CoreCompileInputs.cache
+C:\Users\Crispy\Documents\GitHub\SlotsApi\obj\Debug\netcoreapp2.2\SlotsApi.RazorAssemblyInfo.cache
+C:\Users\Crispy\Documents\GitHub\SlotsApi\obj\Debug\netcoreapp2.2\SlotsApi.RazorAssemblyInfo.cs
+C:\Users\Crispy\Documents\GitHub\SlotsApi\obj\Debug\netcoreapp2.2\SlotsApi.AssemblyInfoInputs.cache
+C:\Users\Crispy\Documents\GitHub\SlotsApi\obj\Debug\netcoreapp2.2\SlotsApi.AssemblyInfo.cs
+C:\Users\Crispy\Documents\GitHub\SlotsApi\obj\Debug\netcoreapp2.2\SlotsApi.RazorTargetAssemblyInfo.cache
+C:\Users\Crispy\Documents\GitHub\SlotsApi\obj\Debug\netcoreapp2.2\SlotsApi.dll
+C:\Users\Crispy\Documents\GitHub\SlotsApi\obj\Debug\netcoreapp2.2\SlotsApi.pdb
