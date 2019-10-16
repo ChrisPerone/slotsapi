@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Crispy\\Documents\\GitHub\\slotsapi\\SlotsApi\\SlotsApi.csproj": {}
+    "C:\\Users\\Crispy\\Documents\\GitHub\\SlotsApi\\SlotsApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Crispy\\Documents\\GitHub\\slotsapi\\SlotsApi\\SlotsApi.csproj": {
+    "C:\\Users\\Crispy\\Documents\\GitHub\\SlotsApi\\SlotsApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Crispy\\Documents\\GitHub\\slotsapi\\SlotsApi\\SlotsApi.csproj",
+        "projectUniqueName": "C:\\Users\\Crispy\\Documents\\GitHub\\SlotsApi\\SlotsApi.csproj",
         "projectName": "SlotsApi",
-        "projectPath": "C:\\Users\\Crispy\\Documents\\GitHub\\slotsapi\\SlotsApi\\SlotsApi.csproj",
+        "projectPath": "C:\\Users\\Crispy\\Documents\\GitHub\\SlotsApi\\SlotsApi.csproj",
         "packagesPath": "C:\\Users\\Crispy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Crispy\\Documents\\GitHub\\slotsapi\\SlotsApi\\obj\\",
+        "outputPath": "C:\\Users\\Crispy\\Documents\\GitHub\\SlotsApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -39,6 +39,10 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.3.101.76, )"
+            },
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
