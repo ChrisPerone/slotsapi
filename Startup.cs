@@ -10,6 +10,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using SlotsApi.Data;
+using SlotsApi.Models;
+using Amazon.DynamoDBv2;
 
 namespace SlotsApi
 {
@@ -25,7 +28,12 @@ namespace SlotsApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            // services.AddDbContext<SlotsApiContext>(opt =>
+            //    opt.UseInMemoryDatabase("SlotModel"));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            // options.UseSqlServer(Configuration.GetConnectionString("MvcMovieContext")));
+            services.AddDefaultAWSOptions(Configuration.GetAWSOptions());
+            services.AddAWSService<IAmazonDynamoDB>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
